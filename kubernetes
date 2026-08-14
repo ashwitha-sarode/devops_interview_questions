@@ -1,0 +1,6 @@
+11) How does Kubernetes handle self-healing at pod and node level?
+12) Difference between ReplicaSet, Deployment, StatefulSet, and DaemonSet?
+13) How do you troubleshoot CrashLoopBackOff or ImagePullBackOff errors?
+14) How do you implement PodDisruptionBudgets and why are they critical?
+15) What’s the role of etcd in Kubernetes, and how do you back it up?
+16) How do you secure a Kubernetes cluster (RBAC, PSP, NetworkPolicy)?
