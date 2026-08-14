@@ -1,0 +1,5 @@
+17) How do you handle drift detection in Terraform?
+18) What’s the impact of terraform refresh vs. terraform plan?
+19) How do you structure large Terraform projects using workspaces and modules?
+20) How do you manage state locking and avoid conflicts in remote backends?
+21) How do you test Terraform code before deploying to production?
