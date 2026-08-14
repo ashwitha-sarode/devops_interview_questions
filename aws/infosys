@@ -1,0 +1,27 @@
+# Round 1 — DevOps Interview Questions
+
+1. Tell me about your current role and DevOps experience.
+2. Is your DevOps experience primarily on AWS or other cloud platforms?
+3. Have you worked with on-premises infrastructure / VMware vSphere?
+4. Did you create CI/CD pipelines from scratch or work on existing pipelines?
+5. Explain the CI/CD pipeline you created for CSV validation and S3 upload.
+6. If an L3 team created the pipeline, how do you understand and troubleshoot it?
+7. Have you written a Dockerfile?
+8. What is the difference between CMD and ENTRYPOINT in Docker?
+9. What Kubernetes operations have you performed apart from deployments?
+10. Have you troubleshooted CrashLoopBackOff? How?
+11. Explain CrashLoopBackOff in simple terms.
+12. Explain PV and PVC in Kubernetes.
+13. How do you handle autoscaling in Kubernetes?
+14. How do you achieve URL/path-based routing in Kubernetes?
+15. Are you familiar with middleware technologies like Tomcat, WebLogic, or WebSphere?
+16. How comfortable are you with Linux? What activities do you perform?
+17. Have you worked on incident management / production incidents?
+18. Which scripting languages have you worked with?
+19. What repetitive tasks have you automated using Bash/Shell scripting?
+20. Give a real-time example of automation you implemented.
+21. What is Terraform state management?
+22. How do you manage Terraform state in a team environment?
+23. What are Terraform modules and why do we use them?
+24. What are Terraform workspaces?
+25. Do you have any questions for the interviewer?
