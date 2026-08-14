@@ -1,0 +1,5 @@
+1) How do you design a CI/CD pipeline for microservices running in Kubernetes?
+2) How do you implement zero-downtime deployments in Jenkins or GitHub Actions?
+3) How do you secure pipelines against supply chain attacks?
+4) How do you manage parallel builds and artifacts in Jenkins/GitLab?
+5) Explain blue/green vs. canary deployments-when would you choose one over the other?
