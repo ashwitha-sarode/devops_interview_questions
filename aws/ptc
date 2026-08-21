@@ -1,0 +1,27 @@
+𝟏𝐬𝐭 𝐑𝐨𝐮𝐧𝐝
+1. Explain your project architecture and CI/CD pipeline.
+2. What is Docker? Difference between image and container?
+3. What is Kubernetes? Explain its architecture.
+4. What is a Pod, Service, and Deployment?
+5. Difference between Rolling, Blue-Green, and Canary deployments.
+6. What is Terraform? What is state file?
+7. Difference between public and private subnets in AWS.
+8. What is IAM? Difference between role and policy?
+9. What is a Load Balancer and how does it work?
+10. What is Git branching strategy?
+11. How do you monitor applications in production?
+12. What is DNS and how does it work?
+
+𝟐𝐧𝐝 𝐑𝐨𝐮𝐧𝐝
+1. How do you scale an application in Kubernetes?
+2. How do you secure container images in Kubernetes?
+3. What is the role of Amazon CloudFront in an architecture?
+4. How do you design disaster recovery for Amazon RDS?
+5. A developer cannot access a S3 bucket. What will you check?
+6. You are facing latency issues in an EKS cluster. How do you troubleshoot?
+7. AWS Lambda is failing internally. What are your debugging steps?
+8. CI/CD pipeline is not able to connect to GitLab. What will you check?
+9. Kubernetes is not able to expose a pod. What could be the issue?
+10 .Pods are running but users are getting 503 errors. How do you debug?
+11. Terraform apply failed midway - how do you recover safely?
+12. How do you handle secrets securely across multiple environments?
